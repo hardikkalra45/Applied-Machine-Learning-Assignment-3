@@ -1,4 +1,4 @@
-Assignment 3: Testing & Model Serving
+Assignment 3: Testing & Model Serving with Flask
 
 1. unit testing
 - In score.py, write a function with the following signature that scores a trained model on a text:
